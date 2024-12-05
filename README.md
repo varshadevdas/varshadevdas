@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshadevdas&label=Profile%20views&color=0e75b6&style=flat" alt="varshadevdas" /> </p>
 
-- 🔭 I’m currently working on "**SnapRecipe**", a smart cooking app. (https://github.com/varshadevdas/SnapRecipe)
+- 🔭 I’m currently working on "**SnapRecipe**", a smart cooking app.
 
 - 🌱 Learning **DSA** and **MERN Stack**.
 
